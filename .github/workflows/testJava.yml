@@ -3,7 +3,6 @@ on:
 push:
 branches:
 - main
-- Part2-SendMessages
 - Part3-Arrays
 pull_request:
 branches:
