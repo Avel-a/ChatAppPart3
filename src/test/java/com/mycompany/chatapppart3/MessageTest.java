@@ -358,4 +358,3 @@ public void testDisplayReport_containsRequiredFields() {
 }
 }
 
-
